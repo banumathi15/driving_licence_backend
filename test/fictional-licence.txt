@@ -1,0 +1,9 @@
+FICTIONAL TEST DOCUMENT — NOT A REAL DRIVING LICENCE
+Name: Alex Sample
+Licence Number: TEST-DL-123456
+Date of Birth: 12/05/1990
+Date of Issue: 10/03/2022
+Date of Expiry: 09/03/2032
+Address: 10 Example Street, Sample City
+Vehicle Class: LMV, MCWG
+Issuing Authority: Sample Regional Transport Office
